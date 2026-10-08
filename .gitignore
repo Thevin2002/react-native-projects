@@ -1,0 +1,23 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vs/
+.idea/
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.pem
+*.key
+
+# React Native
+node_modules/
+.expo/
+android/app/build/
+ios/Pods/
+*.apk
+
